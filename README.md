@@ -4,6 +4,26 @@ Android app: pick **pickup A** and **drop-off B** on a map, book a trip, then vi
 
 Built with **Kotlin**, **Jetpack Compose**, **Hilt**, and **Clean Architecture** (presentation → domain → data).
 
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/01-map-set-a.png" width="220" alt="Map: set pickup A" />
+  <img src="docs/screenshots/02-map-book.png" width="220" alt="Map: A and B set, ready to book" />
+  <img src="docs/screenshots/03-booking.png" width="220" alt="Booking summary" />
+</p>
+<p>
+  <img src="docs/screenshots/04-booking-details.png" width="220" alt="Booking details from history" />
+  <img src="docs/screenshots/05-history.png" width="220" alt="Booking history" />
+</p>
+
+| Screen | What it shows |
+| --- | --- |
+| Map — Set A | Center pin, AQI, pickup / drop-off empty, **Set A** |
+| Map — Book | A and B filled, **Book** |
+| Booking | A/B, AQI, nickname, price, **v** |
+| Booking details | Same summary from a history row |
+| History | Total count / price and this month’s trips |
+
 ## How to run
 
 1. Open the project in Android Studio.
