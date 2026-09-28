@@ -24,6 +24,10 @@ Built with **Kotlin**, **Jetpack Compose**, **Hilt**, and **Clean Architecture**
 | Booking details | Same summary from a history row |
 | History | Total count / price and this month’s trips |
 
+## Demo
+
+[Watch the sample demo](docs/tada-demo.mp4)
+
 ## How to run
 
 1. Open the project in Android Studio.
